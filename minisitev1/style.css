@@ -1,0 +1,102 @@
+* {
+    min-width: 280px;
+}
+
+
+body{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    
+}
+
+
+ul{
+    list-style-type: '\1F355\0020';
+    list-style-position: inside;
+}
+
+.pizzahome{
+    margin: 5% 0 5% 30%;
+}
+
+.pizzahome {
+    border-radius: 10%;
+
+    
+}
+
+.titulopag1{
+    margin-left: 10%;
+    color: white;
+    text-shadow: 10px 5px rgba(0, 0, 0, 0.322);
+    
+}
+
+.lista{
+    margin-left: 45%;
+    color: white;
+    text-decoration-color: aliceblue;
+}
+
+.tituloloc{
+    margin-left: 50%;
+    color: white;
+}
+
+.mapa {
+    margin: 5% 0 5% 50%;
+    border-radius: 10%;
+}
+
+.contactos {
+    margin-left: 50%;
+    color: white;
+    text-decoration-color: aliceblue;
+}
+
+.menu {
+    margin: 5% 0 10% 40%;
+    color:white;
+}
+
+.h1menu{
+    margin-bottom: 10%;
+    color:white;
+}
+
+.h2menu{
+    margin-top: 10%;
+}
+
+.pizza{
+    border-radius: 10%;
+    box-shadow: 10px  10px 5px black;
+}
+
+
+footer{
+    color:white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+}
+
+a {
+    text-decoration-line: none;
+    color: white
+    
+}
+
+.divhover {
+    width: 100px;
+    margin: auto;
+}
+
+div > .hover {
+    display: none;
+}
+
+div:hover > .hover {
+    display: block;
+}
+
