@@ -8,8 +8,6 @@
 html,
 body {
   background-color: black;
-  height: 100vh;
-  width: 100vw;
 }
 
 main {
@@ -21,6 +19,7 @@ main {
 
 section#tele {
   background: url(../imagens/frame-iphone.png);
+  margin-top: 70px;
   height: 626px;
   width: 309px;
   display: flex;
@@ -35,6 +34,7 @@ iframe#frame{
 }
 
 section.botao {
+  margin-top: 30px;
   display: flex;
   justify-content: space-evenly;
 }
