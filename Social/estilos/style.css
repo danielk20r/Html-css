@@ -7,9 +7,10 @@
 
 html,
 body {
-  background-color: black;
-  height: 100vh;
-  width: 100vw;
+  background-image: linear-gradient(45deg, darkred, orange);
+  background-attachment: fixed;
+  height: 98%;
+  width: 100%;
 }
 
 main {
@@ -35,6 +36,7 @@ iframe#frame{
 }
 
 section.botao {
+  margin-top: 20px;
   display: flex;
   justify-content: space-evenly;
   
